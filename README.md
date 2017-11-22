@@ -1,6 +1,6 @@
 ## Cryptonight CPUMiner Easy container based on Ubuntu 16.04
 
-Miner for Nicehash pool (Build CPU_XENONCAT).
+Miner for Nicehash pool.
 
 ### Usage:
 
